@@ -49,7 +49,7 @@ cd yolo/v8/detect
 
 gdown "https://drive.google.com/uc?id=1BNZ1S5yflbQpbHeRM1fNeu_2WfuP17hJ&confirm=t"
 
-unzip deep_sort_pytorch.zip
+Expand-Archive deep_sort_pytorch.zip
 
 
 ```
