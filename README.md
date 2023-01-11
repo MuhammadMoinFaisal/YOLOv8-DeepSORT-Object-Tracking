@@ -46,7 +46,6 @@ cd YOLOv8-DeepSORT-Object-Tracking/yolo/v8/detect
 ```
 - Downloading the DeepSORT Files From The Google Drive , unzip them and place them into the yolo/v8/detect folder
 ```
-cd YOLOv8-DeepSORT-Object-Tracking
 
 gdown "https://drive.google.com/uc?id=1BNZ1S5yflbQpbHeRM1fNeu_2WfuP17hJ&confirm=t"
 
