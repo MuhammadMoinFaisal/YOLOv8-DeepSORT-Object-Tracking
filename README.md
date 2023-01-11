@@ -44,12 +44,10 @@ yolo task=segment mode=predict  source="https://ultralytics.com/images/bus.jpg"
 cd yolo/v8/detect
 
 ```
-- Downloading the DeepSORT Files From The Google Drive , unzip them and place them into the yolo/v8/detect folder
+- Downloading the DeepSORT Files From The Google Drive ,place them into the yolo/v8/detect folder
 ```
 
-gdown "https://drive.google.com/uc?id=1BNZ1S5yflbQpbHeRM1fNeu_2WfuP17hJ&confirm=t"
-
-Expand-Archive deep_sort_pytorch.zip
+https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
 
 
 ```
