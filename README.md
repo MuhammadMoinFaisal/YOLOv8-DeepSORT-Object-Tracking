@@ -49,7 +49,7 @@ gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=
 
 - For yolov8 object detection + Tracking
 ```
-python tracking.py model=yolov8l.pt source="test1.mp4" show=True
+python tracking.py model=yolov8l.pt source="test3.mp4" show=True
 ```
 
 ### RESULTS
