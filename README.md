@@ -28,17 +28,6 @@ pip install -r requirements.txt
 pip install ultralytics
 
 ```
-- To implement detection
-```
-yolo task=detect mode=predict model=yolov8n.pt source="https://ultralytics.com/images/bus.jpg
-
-```
-- For Segmentation
-```
-
-yolo task=segment mode=predict  source="https://ultralytics.com/images/bus.jpg"
-
-```
 - Setting the Directory.
 ```
 cd yolo/v8/detect
