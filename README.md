@@ -16,7 +16,6 @@ https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
 - Goto the cloned folder.
 ```
 cd YOLOv8-DeepSORT-Object-Tracking
-
 ```
 - Install the requirements
 ```
@@ -47,8 +46,10 @@ cd YOLOv8-DeepSORT-Object-Tracking/yolo/v8/detect
 ```
 - Downloading the DeepSORT Files From The Google Drive and place them into the yolo/v8/detect folder
 ```
-cd yolov7-segmentation-with-DeepSORT-Tracking
+cd YOLOv8-DeepSORT-Object-Tracking
+
 gdown "https://drive.google.com/uc?id=1BNZ1S5yflbQpbHeRM1fNeu_2WfuP17hJ&confirm=t"
+
 unzip /content/yolov7-segmentation-with-DeepSORT-Tracking/deep_sort_pytorch.zip
 
 
