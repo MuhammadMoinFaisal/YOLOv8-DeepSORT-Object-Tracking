@@ -44,7 +44,7 @@ yolo task=segment mode=predict  source="https://ultralytics.com/images/bus.jpg"
 cd YOLOv8-DeepSORT-Object-Tracking/yolo/v8/detect
 
 ```
-- Downloading the DeepSORT Files From The Google Drive and place them into the yolo/v8/detect folder
+- Downloading the DeepSORT Files From The Google Drive , unzip them and place them into the yolo/v8/detect folder
 ```
 cd YOLOv8-DeepSORT-Object-Tracking
 
@@ -57,12 +57,12 @@ unzip /content/yolov7-segmentation-with-DeepSORT-Tracking/deep_sort_pytorch.zip
 - Downloading a Sample Video from the Google Drive
 ```
 gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=t"
-
+```
 
 - Run the code with mentioned command below.
-```
-#for yolov8 object detection + Tracking
+
+- For yolov8 object detection + Tracking
 ```
 python3 tracking.py model=yolov8l.pt source="test1.mp4" show=True
-
+```
 
