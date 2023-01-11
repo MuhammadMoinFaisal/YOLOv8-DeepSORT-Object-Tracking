@@ -73,4 +73,4 @@ python3 tracking.py model=yolov8l.pt source="test1.mp4" show=True
 
 #### Vehicles Detection, Tracking and Counting
 
-![](./figure/figure2.png)
+![](./figure/figure3.png)
