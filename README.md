@@ -49,7 +49,7 @@ cd YOLOv8-DeepSORT-Object-Tracking/yolo/v8/detect
 
 gdown "https://drive.google.com/uc?id=1BNZ1S5yflbQpbHeRM1fNeu_2WfuP17hJ&confirm=t"
 
-unzip /content/yolov7-segmentation-with-DeepSORT-Tracking/deep_sort_pytorch.zip
+unzip deep_sort_pytorch.zip
 
 
 ```
@@ -62,7 +62,7 @@ gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=
 
 - For yolov8 object detection + Tracking
 ```
-python3 tracking.py model=yolov8l.pt source="test1.mp4" show=True
+python tracking.py model=yolov8l.pt source="test1.mp4" show=True
 ```
 
 ### RESULTS
