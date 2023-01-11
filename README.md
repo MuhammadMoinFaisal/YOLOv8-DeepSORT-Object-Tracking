@@ -66,3 +66,11 @@ gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=
 python3 tracking.py model=yolov8l.pt source="test1.mp4" show=True
 ```
 
+### RESULTS
+
+#### Vehicles Detection, Tracking and Counting 
+![](./figure/figure1.png)
+
+#### Vehicles Detection, Tracking and Counting
+
+![](./figure/figure2.png)
