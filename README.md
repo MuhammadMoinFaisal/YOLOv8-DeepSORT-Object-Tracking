@@ -41,7 +41,7 @@ yolo task=segment mode=predict  source="https://ultralytics.com/images/bus.jpg"
 ```
 - Setting the Directory.
 ```
-cd YOLOv8-DeepSORT-Object-Tracking/yolo/v8/detect
+cd yolo/v8/detect
 
 ```
 - Downloading the DeepSORT Files From The Google Drive , unzip them and place them into the yolo/v8/detect folder
