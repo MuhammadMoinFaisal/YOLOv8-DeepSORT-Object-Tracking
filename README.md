@@ -5,7 +5,7 @@ YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
 The google colab file link for yolov8 object detection and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation
 ,you just need to select the Run Time as GPU, and click on Run All.
 
-[`Google Colab File`](https://colab.research.google.com/drive/1wEsHknk11SWak80SJ7uGWZf5-BBrfMZx?usp=sharing)
+[`Google Colab File`](https://colab.research.google.com/drive/1lHzylUxCs-rSx7dFGmGmXEk4cS1XNpzK?usp=sharing)
 
 ## Steps to run Code
 
