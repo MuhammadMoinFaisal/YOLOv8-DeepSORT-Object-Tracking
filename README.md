@@ -38,7 +38,7 @@ cd yolo/v8/detect
 
 https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
 ```
-- After downloading the Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the yolo/v8/detect folder
+- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the yolo/v8/detect folder
 
 - Downloading a Sample Video from the Google Drive
 ```
