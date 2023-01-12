@@ -55,7 +55,7 @@ python tracking.py model=yolov8l.pt source="test3.mp4" show=True
 [![Watch the Complete Video Tutorial with Step by Step Explanation here]
 (http://img.youtube.com/vi/9jRRZ-WL698/./figure/figure1.png)]
 (https://www.youtube.com/watch?v=9jRRZ-WL698)
-http://img.youtube.com/vi/<9jRRZ-WL698>/hqdefault.jpg
+http://img.youtube.com/vi/9jRRZ-WL698/hqdefault.jpg
 
 ### RESULTS
 
