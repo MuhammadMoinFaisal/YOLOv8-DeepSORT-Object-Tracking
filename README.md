@@ -52,8 +52,8 @@ gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=
 python tracking.py model=yolov8l.pt source="test3.mp4" show=True
 ```
 
-[![Watch the Complete Video Tutorial with Step by Step Explanation here]
-(./figure/figure1.png)](https://www.youtube.com/watch?v=9jRRZ-WL698)
+[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/9jRRZ-WL698/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=9jRRZ-WL698) "Watch the Complete Tutorial for the Step by Step Explanation")
+
 
 ### RESULTS
 
