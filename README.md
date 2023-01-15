@@ -7,6 +7,10 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 [`Google Colab File`](https://colab.research.google.com/drive/17PKi3fRtAYWinw1OcE7G87f9Gu96A6yq?usp=sharing)
 
+## YOLOv8 Segmentation with DeepSORT Object Tracking
+
+[`Github Repo Link`](https://github.com/MuhammadMoinFaisal/YOLOv8_Segmentation_DeepSORT_Object_Tracking.git)
+
 ## Steps to run Code
 
 - Clone the repository
