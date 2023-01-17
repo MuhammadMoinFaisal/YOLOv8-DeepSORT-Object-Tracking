@@ -1,0 +1,95 @@
+site_name: Ultralytics Docs
+repo_url: https://github.com/ultralytics/ultralytics
+repo_name: Ultralytics
+
+theme:
+  name: "material"
+  logo: https://github.com/ultralytics/assets/raw/main/logo/Ultralytics-logomark-white.png
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.annotate
+    - content.tooltips
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+extra_css:
+  - stylesheets/style.css
+
+markdown_extensions:
+  # Div text decorators
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - def_list
+  # Syntax highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+  # Button
+  - attr_list
+
+  # Content tabs
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  # Highlight
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+plugins:
+  - mkdocstrings
+
+# Primary navigation
+nav:
+  - Quickstart: quickstart.md
+  - CLI: cli.md
+  - Python Interface: sdk.md
+  - Configuration: config.md
+  - Customization Guide: engine.md
+  - Ultralytics HUB: hub.md
+  - iOS and Android App: app.md
+  - Reference:
+      - Python Model interface: reference/model.md
+      - Engine:
+          - Trainer: reference/base_trainer.md
+          - Validator: reference/base_val.md
+          - Predictor: reference/base_pred.md
+          - Exporter: reference/exporter.md
+      - nn Module: reference/nn.md
+      - operations: reference/ops.md
