@@ -21,20 +21,15 @@ git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.
 ```
 cd YOLOv8-DeepSORT-Object-Tracking
 ```
-- Install the requirements
+- Install the dependecies
 ```
-pip install -r requirements.txt
+pip install -e '.[dev]'
 
 ```
-- To use the YOLOv8 Command Line Interface, install the Ultralytics Package
-```
 
-pip install ultralytics
-
-```
 - Setting the Directory.
 ```
-cd yolo/v8/detect
+cd ultralytics/yolo/v8/detect
 
 ```
 - Downloading the DeepSORT Files From The Google Drive 
