@@ -54,7 +54,7 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 - Download the updated predict.py file from the Google Drive and place it into ultralytics/yolo/v8/detect folder 
 - Google Drive Link
 ```
-https://drive.google.com/drive/folders/1G5oX5XfWIHd5N6CuCp53bI8V9QQ11ifT?usp=sharing
+https://drive.google.com/drive/folders/1awlzTGHBBAn_2pKCkLFADMd1EN_rJETW?usp=sharing
 ```
 - For yolov8 object detection + Tracking + Vehicle Counting
 ```
