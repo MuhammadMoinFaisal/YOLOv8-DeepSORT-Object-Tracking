@@ -6,7 +6,7 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 [`Google Colab File`](https://colab.research.google.com/drive/1U6cnTQ0JwCg4kdHxYSl2NAhU4wK18oAu?usp=sharing)
 
-## YOLOv8 Object Detection and Tracking (ID + Trails) using YOLOv8 on Custom Data
+## Object Detection and Tracking (ID + Trails)  using YOLOv8 on Custom Data
 ## Google Colab File Link (A Single Click Solution)
 [`Google Colab File`](https://colab.research.google.com/drive/1dEpI2k3m1i0vbvB4bNqPRQUO0gSBTz25?usp=sharing)
 
